@@ -1,23 +1,33 @@
-# Hi there 👋
+# Hey 👋
 
 I’m Julian, a web developer currently working at [D3R](https://www.d3r.com/).
 
-## 🔭 What I’m interested in
-- Blockchain technologies & Web3
-- Crypto infrastructure and smart contracts
-- Exploring AI tools that make development easier :)
+I’m currently focused on experimenting with AI tooling for real developer workflows; from coding assistants and embeddings to running lightweight text and image models locally.
 
-## 🤖 My journey with AI
-I’m particularly interested in how AI can be used to improve both productivity and learning.
-- I experiment with integrating AI into my daily workflows to streamline development tasks.
-- I use AI as a learning companion - helping me explore new concepts faster and more efficiently.
-- I’m curious about the intersection of AI with Web3, and how intelligent automation can support decentralized systems.
+## 🔭 Main interests
 
-## 🌱 What I’m up to
-- Expanding my knowledge of decentralized applications (dApps)
-- Experimenting with cross-chain tools and blockchain oracles
-- Finding new ways to integrate AI into real-world developer workflows
+* Applied AI for software development
+* AI-assisted coding and automation (Claude Code, OpenAI Codex, openclawd)
+* Embeddings, semantic search, and retrieval-augmented generation (RAG)
+* Local and hosted LLM (Large Language Model) workflows
+* Multimodal experimentation (text + image models)
+
+## 🤖 What I’m working on
+
+* Using **Claude Code** and **OpenAI Codex** for AI-assisted development
+* Building custom agent workflows with **openclawd**
+* Creating embedding pipelines for semantic search and knowledge indexing
+* Running small local models for offline and privacy-first inference
+* Testing prompt strategies and agent design patterns
+
+## 🌱 Current areas of exploration
+
+* AI-powered developer tooling
+* Vector databases and embedding systems
+* Local model serving and inference optimization
+* Prompt engineering and multimodal AI
 
 ## 📫 How to reach me
-- [GitHub](https://github.com/Jularobbe)
-- [LinkedIn](https://linkedin.com/in/julian-friedrich-2020)
+
+* [GitHub](https://github.com/Jularobbe)
+* [LinkedIn](https://linkedin.com/in/julian-friedrich-2020)
